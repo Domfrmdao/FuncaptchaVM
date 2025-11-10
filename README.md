@@ -11,12 +11,12 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
-| 4.0.11  | 46             |
+| 4.0.11  | 47             |
 | 3.7.5   | 60             |
 | 3.7.2   | 3              |
 | 3.5.0   | 2              |
 | 2.17.3  | 10             |
-| 2.17.2  | 86             |
+| 2.17.2  | 85             |
 | 2.17.1  | 5              |
 | 2.17.0  | 3              |
 
