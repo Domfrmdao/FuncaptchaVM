@@ -11,14 +11,11 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
-| 4.0.11  | 47             |
-| 3.7.5   | 60             |
+| 4.0.11  | 48             |
+| 3.7.5   | 62             |
 | 3.7.2   | 3              |
 | 3.5.0   | 2              |
-| 2.17.3  | 10             |
-| 2.17.2  | 85             |
-| 2.17.1  | 5              |
-| 2.17.0  | 3              |
+| 2.17.3  | 100            |
 
 
 **Total**: 215 keys, 8 versions
