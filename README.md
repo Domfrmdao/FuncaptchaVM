@@ -3,6 +3,8 @@
 This repository was created to address two main issues:
 
 1. **Outdated repositories**: Many existing repositories are not up to date with the latest versions
+> [!WARNING]  
+> As of 4.0.12 this repository is also outdated, the support has been close to none and i don't feel like maintaining a project that seemingly nobody uses.
 2. **People struggling**: Some people are struggling with reversing the encryption process, this repository provides a clear implementation and everything you need to know
 
 ## Version Statistics
@@ -11,14 +13,14 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
-| 4.0.11  | 48             |
-| 3.7.5   | 62             |
-| 3.7.2   | 3              |
-| 3.5.0   | 2              |
-| 2.17.3  | 100            |
+| 4.0.12  | 42             |
+| 3.7.6   | 56             |
+| 3.7.5   | 3              |
+| 2.17.4  | 10             |
+| 2.17.3  | 85             |
 
 
-**Total**: 215 keys, 5 versions
+**Total**: 196 keys, 5 versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
