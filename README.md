@@ -3,8 +3,6 @@
 This repository was created to address two main issues:
 
 1. **Outdated repositories**: Many existing repositories are not up to date with the latest versions
-> [!WARNING]  
-> As of 4.0.12 this repository is also outdated, the support has been close to none and i don't feel like maintaining a project that seemingly nobody uses.
 2. **People struggling**: Some people are struggling with reversing the encryption process, this repository provides a clear implementation and everything you need to know
 
 ## Version Statistics
@@ -13,23 +11,21 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
-| 4.0.12  | 42             |
-| 3.7.6   | 56             |
+| 4.0.13  | 51             |
+| 3.7.7   | 58             |
 | 3.7.5   | 3              |
-| 2.17.4  | 10             |
-| 2.17.3  | 85             |
+| 2.17.5  | 98             |
 
-
-**Total**: 196 keys, 5 versions
+**Total**: 210 keys, 4 versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
-## RSA Public Key for Version 4.0.11
+## RSA Public Key for Version 4.0.13
 
-The RSA public key for version **4.0.11**:
+The RSA public key for version **4.0.13**:
 
 ```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk61iAIh8KZ8gxpbFQxTjEzkSRhzDfI+9woCzXZ5+lXNZNRi/w6s6rWKaSeWNs9WJ0QZIh9Jm0knLHJ4bZfeNninERKInvHw7TbUZFZj8fLORoQoY3Pij2iuhLhRUHoRjSlQCNSFu0UQegX/5X2p9hQYQI0dfqZLAPcKSNqDjqyhf2ahqJO6IGKEKubCY9kjYmNJiO3DTyJAnCU1enpE0weFieI1+qILsJhcT22+z7JkgFlgeCgOd5lZhQfC7/aEBANTacsZA4b7f/H6+uL1ZoM1NRKjIdtzzXTRtX5/ayDK/hwlNesaO4b2RUdhJogc9xmK7x7RJm+Vk9UcFdtIGnQIDAQAB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOo1oHBIsnBcjNjRKPz+hOcUIxAhZHbp5Z2WTmhMiLXPOMXE5S2/d11oaOsYuSH/kEf75g0+UmofEIkTPaMXFD2lvHewVpxsQMX1PM0bPiIVOLryiSMyRIc+TQJXCwGkD9gMrLc6K7892c86fgX3D2TxHIdcIlygxaLx4svWgNFzzpbP32PeeO0bsUZjtceKd/XghmJ4jI20BrlykIw8itFRhhml4+mCNBGRLL/h5FXJYEhgEkH8CFg0Do/mWA3MxbyD0H2V+ukIsYZKLxwCoH6djkdCNKKxGl1uX+o7xJ+vKPZd4exP4j27m3XWc0ZtNshG6St7EMACJblALNx4nQIDAQAB
 ```
 
 ## Usage
