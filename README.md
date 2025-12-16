@@ -11,12 +11,15 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
+| 4.0.14  | 14             |
 | 4.0.13  | 51             |
-| 3.7.7   | 58             |
+| 3.7.8   | 23             |
+| 3.7.7   | 21             |
 | 3.7.5   | 3              |
-| 2.17.5  | 98             |
+| 2.17.6  | 9              |
+| 2.17.5  | 89             |
 
-**Total**: 210 keys, 4 versions
+**Total**: 210 keys, 7 versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
