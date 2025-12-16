@@ -20,12 +20,12 @@ The following statistics show the number of keys found across different versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
-## RSA Public Key for Version 4.0.13
+## RSA Public Key for Version 4.0.14
 
-The RSA public key for version **4.0.13**:
+The RSA public key for version **4.0.14**:
 
 ```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoTzJSxYHI6mLbM46CdkJYxvCWdVAthgfLpsgXxRkySUdfhovjCiPKvkaqBALx/ezrPW+f20on35sCI6aMeyojdOU1CLrWrhGTvICKhR1Gdz2YdlHD5ZBS4CYC4awacCDfiWswjb+0unSrhKZ7sfNi29D90TIZCh8q/Vej4hmxF6Z38Z6sYTJeo8vBKWIpg2XfQQlSXcE0/0aaMEobw5VvhUj8JgDUxVUhoYoUnhZLmt686bX3WaMLLuI3U+IH13cg5Jjq1ivoP2F7/4yXPQdB6QcqLf4QLEODirZkBvBrVkFdcTb0wiAC0gQ9SDnWr158tatqhw/Ev50hV2JgEAlxwIDAQAB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1oPfgMSu7OYZ6bWlFcs2FSFJVO9g8hz3ozOwjB6yrbeMxCRw/lblyVh3H4zTm2vZ5Ggh8dnUG03Nyw0PQmr8OaJKA3ZGlJk2VvE5EXOsYoLR/z477xoUacxC3yAICKREP71O2IwxeMRzS4Sp0r3Bl4NxLiiYy7wn34YfY1HX7X2nl0aJEOt5Y9+AMaoBU/cAn0L6rqDn25MJgIwzrxg9pz7NmdWEFhGHDEzdV+cGWoNFNnKnkY555SCFk/CDnZyD8DTIA8yjrdnWhj8yjwh1fx6+XJQBBgvyYpfhW5z9de6ACpnAVrIxicMoxyXnfJ+LeK09e1xQwHEPFhjIBA3VFwIDAQAB
 ```
 
 ## Usage
