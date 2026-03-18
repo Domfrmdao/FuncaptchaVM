@@ -11,15 +11,13 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys |
 |---------|----------------|
-| 4.0.14  | 14             |
-| 4.0.13  | 51             |
-| 3.7.8   | 23             |
-| 3.7.7   | 21             |
-| 3.7.5   | 3              |
-| 2.17.6  | 9              |
-| 2.17.5  | 89             |
+| 4.0.15  | 114            |
+| 4.0.14  | 5              |
+| 3.7.9   | 19             |
+| 3.7.8   | 3              |
+| 2.17.6  | 66             |
 
-**Total**: 210 keys, 7 versions
+**Total**: 207 keys, 5 versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
@@ -28,7 +26,7 @@ The following statistics show the number of keys found across different versions
 The RSA public key for version **4.0.14**:
 
 ```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzCMc1wNFs0teq9EkwEORSGFDKvMew7qKnAyvlQutfJZLw5bUAx21eTsdKFO/2u2VKzpYyI5vbRym1QIhI79/9/eoXTXj79cOBQa2Pd5iRjPSyU7t7V5v5PPa7BbHHDOYjPH+BLj+YbBD7HbJppyuecKKU6iNPIGrMFPHe+AAZ0ZdJtrNf7gJYx8ES7oBMxJLNJ+0Fl2RzRlzyyTMO5R411wIpH1UvnXq5e42Awtxmci0Lx9heOXdmB+fypkBn2NEY6niaqHI2JqFlP07Rihjch283YN97NWJ+hacts187kh4PNJXvPnZ2s2kCpdkfrM32QVjXm5TCChY9dFjDp1eGQIDAQAB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyl2q/5OTdAONo7CS4CaTgHT++Ve9chzhT7SYFiQsYy42/7Y2Lla4dqP3C1eCd94lIY/ajg1WD+hf20bIzqdwuOLqYaIWM1jNUOJ5dcLFqhlYFQnO6JrEh1r9/U+kBo0qv+IxFbAhuRx/R95URfqFMSgKwdiacqH/srWniuy/XQX7nkscGA2Nml28U1bnLC5QhCEHUg8MqJ5yrA/inHLPQv12YezX3Ifv5M5eQefamYzXXGwtd6XEd+CdHLsoiT+p+RIm3nTe4SqW6ZAd81L+OgvV4D0mWDFDbI8MXftIFwDW4SrikvTt9FgX+fuaBzNJoMxau3vFXRFKjlsqYacFpwIDAQAB
 ```
 
 ## Usage
