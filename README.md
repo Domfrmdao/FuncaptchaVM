@@ -1,3 +1,7 @@
+## Paid work
+For paid work commissions, please [contact me](https://github.com/Domfrmdao/FuncaptchaVM#contact)
+Paid work regarding specific site keys like roblox register will be disregarded due to the complexity of maintaining such solver
+
 # Overview
 
 This repository was created to address two main issues:
