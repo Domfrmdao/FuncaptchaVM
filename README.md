@@ -15,62 +15,31 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys | Enforcement Hash | Build ID |
 |---------|----------------|------------------|----------|
-| 4.2.0 | 5 | 24bcfbb16c8559cbe6d75aad3cf33f0a | 01063517-02a3-4241-90e8-57bcfa6eb344 |
-| 4.1.1 | 2 | bd89644ea16574d7785056789b1551ef | 6c3b4d83-6f4c-4fb9-af1d-2fe1e0551d93 |
-| 4.0.17 | 106 | 2893ced7f21970c257e618618f41324f | 6ba988b9-6187-4fcb-9c3d-c8bb759414d4 |
+| 4.2.1 | 115 | 6478ee8cab28a1b0febab9c23446b0a9 | 7ecbd953-09aa-4047-9b10-febe0ed32f28 |
 | 4.0.16 | 2 | d9d8ed97fd0f45a56f664628052bea47 | 4ac8440d-c69b-4930-aa81-b805f45bb5d6 |
 | 4.0.15 | 2 | 534454a31b2b57c8a68d2c42361d6302 | 8582c73d-bb69-45ae-8266-30cfbdfb0e07 |
 | 4.0.14 | 5 | 8bfdb07c6a1744205f833adf1d7cf42b | 4bef235e-60d1-4f49-8483-e44e1455dac2 |
-| 3.7.11 | 7 | ca0a9490692b2a88471319ec8ea61540 | N/A |
-| 3.7.10 | 3 | ea083e6be4a6ca610671bb219ac74b14 | N/A |
-| 3.7.9 | 10 | 49bcbdb5c09b32c79810a6cdd39bb1d1 | N/A |
-| 3.7.8 | 3 | 9927ff35f6667a08e343c5bd0e1ede36 | N/A |
+| 3.8.1 | 4 | b24464d498fb790b277718fe3c6c93b9 | N/A |
+| 3.7.11 | 16 | ca0a9490692b2a88471319ec8ea61540 | N/A |
+| 3.7.8 | 1 | 9927ff35f6667a08e343c5bd0e1ede36 | N/A |
 | 2.17.6 | 66 | cdeb82f474225dff1677448c6bc82e87 | N/A |
 
-**Total**: 211 keys, 11 versions
+**Total**: 211 keys, 8 versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
-## RSA Public Key for Version 4.2.0
+## RSA Public Key for Version 4.2.1
 
-The RSA public key for version **4.2.0**:
-
-```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnuBgpyUv3trA8O6nKl9JtWPInNsgMSTtGWZ2+T5aKtfqWLZURFe2p8QOmcWgKCTHtEKfAyeYjlg1tMSN7PXAAclL3m95H51OQY6Ah0RQLppqedUVDAu7ackeWEUtkW/yClxUT10lcQUPDz4r/0ayDOs9ssrBU87WRZJRcjrO/uS5bj9uiq26+7plEyNPybKKj8HcgoWqMdd2crc5YDw6C6oesiL6Sy8ENxHSSrSOUomdG92+U2edki7i1nY6c2Id5K7cmiAay0W3yEwnXkSm7ej0WEPf1yoanK8a6PKhKQiU0LwYUx7XC1Fv4hSfWxqwr5EfpT4iJMsbsgYQfO/5FwIDAQAB
-```
-
-The XOR decryption key for version **4.2.0**:
+The RSA public key for version **4.2.1**:
 
 ```
-692
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqdVgTkfJ75PNpLyYxfiyeu1rI8li68kI9x1MJRzX4ICMoBd43/iaMBZIfUZoslKoDk9Vqr91BlOIrmxYOLBXbRfrLPxzTdk+Rcf41x0yrlilfsfFp8SGSLMi9+oRDCcicOf6JG5nSGe1KgXBmaWNVHcz2X37pIRkqoRiePNmk8zXZRQHJ0pvEzx6+wu5dEJDmKdc/iz/5H3xqSSG0DtS5u9d8nM9uOAb4+70cb0/YDjVRdXLPxHmI6McJvoA69kHUI34NeEixdeZwcJtebJIG5H3TP0BoKdpFzihqn4+jnUuug1QblxZNsAKyx+ZHDtOgYAX7QZf9lwQLQQxxIcpPwIDAQAB
 ```
 
-## RSA Public Key for Version 4.1.1
-
-The RSA public key for version **4.1.1**:
+The XOR decryption key for version **4.2.1**:
 
 ```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArCS7IW9eQ8NmpJzhOljNEOU5+vfXSYsG0pLXogCpMYx4jG+pIK6SACt+1ahQIZ+Hz2X9USWhYY5F9qTd836qL+IecPHMABbitWvQkcxtf+hVbeK/WPJYFqDqam6tR7sEKGV6FKVD3Rp8diZMlmH8bq+V4op3MRMyL259ApF51J47zbzyXHtMoRNbcHvSBYQ+HUwdZaZLmbyxuAZw8MeS/PyX6G0t5/stlK1NfXl7AqBpB3qh7Z/+0/R/4JONoAekwAEDGZyvxqx8nKAYOQ/q3WK8H2MrVtL5zvpaUCypEtHSRj4H4GBipWEquWPVHoQcpzF+MX/f+ULwS79upfOLQwIDAQAB
-```
-
-The XOR decryption key for version **4.1.1**:
-
-```
-35
-```
-
-## RSA Public Key for Version 4.0.17
-
-The RSA public key for version **4.0.17**:
-
-```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArtD7nfzPEPA2Kg80Od7WuwHp33LKyb5DJm6FcxBk0poBaVsw1gAvJ92UqF5aTkdOkPY77MIC3BGsHoc4DT07T89APdfSu0ZYTL9Du3MsAwJPM53u8Hgwyn5qBPocYuWwQVFXovDaXgg4LXLsYgDWKDsiphN+fYAeqnSzPC1ZjTGeJZbXmQ2fOaegyzgPMu9NVaAf3fS9vrE3kaoNG3WpUUE4ZzWMyoVMXrbHEDg0qthpHgc2I9mvtkpMv//alYwOeCXcqUyYwHncjqj+t2mSbGvUW2ztPbUQxVTLF5bfT6wTO+nK+0Uhe0ewjj/6cR95JIzIm8k5I/CV3Tun1eJPFwIDAQAB
-```
-
-The XOR decryption key for version **4.0.17**:
-
-```
-608
+285
 ```
 
 ## RSA Public Key for Version 4.0.16
@@ -100,7 +69,6 @@ The XOR decryption key for version **4.0.15**:
 ```
 143
 ```
-
 ## RSA Public Key for Version 4.0.14
 
 The RSA public key for version **4.0.14**:
