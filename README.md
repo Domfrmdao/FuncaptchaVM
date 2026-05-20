@@ -15,11 +15,11 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys | Enforcement Hash | Build ID |
 |---------|----------------|------------------|----------|
-| 4.2.1 | 115 | 6478ee8cab28a1b0febab9c23446b0a9 | 7ecbd953-09aa-4047-9b10-febe0ed32f28 |
+| 4.2.2 | 115 | aa7c59e710093b8a0016360fee0739d0 | 3599826e-0e83-4310-857a-76590a8cf96d |
 | 4.0.16 | 2 | d9d8ed97fd0f45a56f664628052bea47 | 4ac8440d-c69b-4930-aa81-b805f45bb5d6 |
 | 4.0.15 | 2 | 534454a31b2b57c8a68d2c42361d6302 | 8582c73d-bb69-45ae-8266-30cfbdfb0e07 |
 | 4.0.14 | 5 | 8bfdb07c6a1744205f833adf1d7cf42b | 4bef235e-60d1-4f49-8483-e44e1455dac2 |
-| 3.8.1 | 4 | b24464d498fb790b277718fe3c6c93b9 | N/A |
+| 3.8.2 | 4 | 20cc39a78eea5fe688f8408372fd1827 | N/A |
 | 3.7.11 | 16 | ca0a9490692b2a88471319ec8ea61540 | N/A |
 | 3.7.8 | 1 | 9927ff35f6667a08e343c5bd0e1ede36 | N/A |
 | 2.17.6 | 66 | cdeb82f474225dff1677448c6bc82e87 | N/A |
@@ -28,18 +28,18 @@ The following statistics show the number of keys found across different versions
 
 [Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
-## RSA Public Key for Version 4.2.1
+## RSA Public Key for Version 4.2.2
 
-The RSA public key for version **4.2.1**:
-
-```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqdVgTkfJ75PNpLyYxfiyeu1rI8li68kI9x1MJRzX4ICMoBd43/iaMBZIfUZoslKoDk9Vqr91BlOIrmxYOLBXbRfrLPxzTdk+Rcf41x0yrlilfsfFp8SGSLMi9+oRDCcicOf6JG5nSGe1KgXBmaWNVHcz2X37pIRkqoRiePNmk8zXZRQHJ0pvEzx6+wu5dEJDmKdc/iz/5H3xqSSG0DtS5u9d8nM9uOAb4+70cb0/YDjVRdXLPxHmI6McJvoA69kHUI34NeEixdeZwcJtebJIG5H3TP0BoKdpFzihqn4+jnUuug1QblxZNsAKyx+ZHDtOgYAX7QZf9lwQLQQxxIcpPwIDAQAB
-```
-
-The XOR decryption key for version **4.2.1**:
+The RSA public key for version **4.2.2**:
 
 ```
-285
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzDiBcmEqYUYY3PnaBlQjtpuhcL3Hp9XwI6hF9R9cxrZapMrAXC+s4NhQAmOZ7m1YxcsEVzlGQ6n6aHY60qv2AcpwrznwcPfxHAPh1Zb16vrg7W1DfR4MQs3n0n0MxhmAYw+HGu+HkC7YvN4v8u1s84n5x1yY14eUdmWlEeHX8LiQhvDLkltrk5RSBFNVDa2mmb3rTEDNvV83+VdoOaF88oCxWOCt0sLS56nNwAZpdrO9pSLHL4qXB89CInC45kI5ziWoC6KRlPS7GHpwwUmQiHrelSg6QQCs7riDYnIMaSmI5ricLRgrYr3nmPHMwBLB2+aMjlcUhar5I7vi0iFiXwIDAQAB
+```
+
+The XOR decryption key for version **4.2.2**:
+
+```
+406
 ```
 
 ## RSA Public Key for Version 4.0.16
@@ -69,6 +69,7 @@ The XOR decryption key for version **4.0.15**:
 ```
 143
 ```
+
 ## RSA Public Key for Version 4.0.14
 
 The RSA public key for version **4.0.14**:
