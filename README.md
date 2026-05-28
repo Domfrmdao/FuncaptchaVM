@@ -118,7 +118,7 @@ This repository is provided as-is for educational and research purposes.
 
 ## Contact
 
-- Discord: **@domfrmdao**
+- Discord: ~~**@domfrmdao**~~ my discord got terminated, please use telegram or open an issue
 - Telegram: [domfrmdao](https://t.me/domfrmdao)
 
 ### Credits
