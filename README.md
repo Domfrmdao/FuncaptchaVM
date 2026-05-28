@@ -1,6 +1,20 @@
 ## Paid work
-For paid work commissions, please [contact me](https://github.com/Domfrmdao/FuncaptchaVM#contact)
+For paid work commissions, please [contact me](https://github.com/Domfrmdao/FuncaptchaVM#contact), the keyfetcher I use to maintain this repository is also for sale and fully automatic without the need for a browser
 Paid work regarding specific site keys like roblox register will be disregarded due to the complexity of maintaining such solver
+
+## Donate
+
+If you appreciate my work and want to support it, donations are welcome.
+
+| Network / Asset | Address |
+|---|---|
+| BTC | `bc1q42xcdl2l62qesegjkqlgj2m5rhlqk4vz8fdq5d` |
+| ETH | `0x24185b37c373f2e85b65385a88dda4a6246f662f` |
+| LTC | `ltc1qz3vuuaxa2kts62ca360555anre8uxg9kkz9fa6` |
+| SOL | `HWVDELQVyxNPaFhSRjxuQM1db3nsoqCHGyQNW4NY13TB` |
+| BNB | `0x24185b37c373f2e85b65385a88dda4a6246f662f` |
+
+If you need any other network or are unsure which address to use, [contact me](https://github.com/Domfrmdao/FuncaptchaVM#contact), donators also receive help and can ask questions regarding my work or help with their project
 
 # Overview
 
