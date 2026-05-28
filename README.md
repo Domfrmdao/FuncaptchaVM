@@ -15,31 +15,29 @@ The following statistics show the number of keys found across different versions
 
 | Version | Number of Keys | Enforcement Hash | Build ID |
 |---------|----------------|------------------|----------|
-| 4.2.2 | 115 | aa7c59e710093b8a0016360fee0739d0 | 3599826e-0e83-4310-857a-76590a8cf96d |
+| 4.2.2 | 115 | 7456a189e914d8deb04e91bbcc80b059 | 5a7f35dd-cdbe-455a-b3c5-c387e2622648 |
 | 4.0.16 | 2 | d9d8ed97fd0f45a56f664628052bea47 | 4ac8440d-c69b-4930-aa81-b805f45bb5d6 |
 | 4.0.15 | 2 | 534454a31b2b57c8a68d2c42361d6302 | 8582c73d-bb69-45ae-8266-30cfbdfb0e07 |
 | 4.0.14 | 5 | 8bfdb07c6a1744205f833adf1d7cf42b | 4bef235e-60d1-4f49-8483-e44e1455dac2 |
-| 3.8.2 | 4 | 20cc39a78eea5fe688f8408372fd1827 | N/A |
-| 3.7.11 | 16 | ca0a9490692b2a88471319ec8ea61540 | N/A |
+| 3.8.2 | 5 | 20cc39a78eea5fe688f8408372fd1827 | N/A |
+| 3.7.11 | 15 | ca0a9490692b2a88471319ec8ea61540 | N/A |
 | 3.7.8 | 1 | 9927ff35f6667a08e343c5bd0e1ede36 | N/A |
 | 2.17.6 | 66 | cdeb82f474225dff1677448c6bc82e87 | N/A |
 
 **Total**: 211 keys, 8 versions
-
-[Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
 
 ## RSA Public Key for Version 4.2.2
 
 The RSA public key for version **4.2.2**:
 
 ```
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzDiBcmEqYUYY3PnaBlQjtpuhcL3Hp9XwI6hF9R9cxrZapMrAXC+s4NhQAmOZ7m1YxcsEVzlGQ6n6aHY60qv2AcpwrznwcPfxHAPh1Zb16vrg7W1DfR4MQs3n0n0MxhmAYw+HGu+HkC7YvN4v8u1s84n5x1yY14eUdmWlEeHX8LiQhvDLkltrk5RSBFNVDa2mmb3rTEDNvV83+VdoOaF88oCxWOCt0sLS56nNwAZpdrO9pSLHL4qXB89CInC45kI5ziWoC6KRlPS7GHpwwUmQiHrelSg6QQCs7riDYnIMaSmI5ricLRgrYr3nmPHMwBLB2+aMjlcUhar5I7vi0iFiXwIDAQAB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAicOBv6QHmLQZDj70rm/mmu8XOBm8DAgefKNe8ZWUu0soVLU98LpDwC3TLXeFmWUaiPVm4QfTi0rRTwrgYxXQWeayC2pLk5Yo1rckxcZD9DfGH6zhSCttMOLbnCDBOMtVJyt2W6MoV56jISmQiWjoktWl1dddMvnLROwRnRXxL1QBuj8t1d4iAgLKCUrKs/heCCaRVQ3Fa+p83YKuKkwpD3tN2tzIFuqFbqltSGY5o/Ki0W0P73A63nqKXg/E2KLiv5Y4OiLqkDRJyJ+KWbLYjLJ8tiTJd2+9nmscfMHzwWqfXKpMptOwmcjxZjnM5gFdABpXhiCoKQt1RgvMUeuWyQIDAQAB
 ```
 
 The XOR decryption key for version **4.2.2**:
 
 ```
-406
+465
 ```
 
 ## RSA Public Key for Version 4.0.16
