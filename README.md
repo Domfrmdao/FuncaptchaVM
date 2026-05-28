@@ -26,6 +26,8 @@ The following statistics show the number of keys found across different versions
 
 **Total**: 211 keys, 8 versions
 
+[Credits for the keys](https://azureflow.github.io/arkose-fp-docs/keys.html)
+
 ## RSA Public Key for Version 4.2.2
 
 The RSA public key for version **4.2.2**:
