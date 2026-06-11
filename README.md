@@ -1,7 +1,9 @@
 ## Paid work
 For paid work commissions, please [contact me](https://github.com/Domfrmdao/FuncaptchaVM#contact), the keyfetcher I use to maintain this repository is also for sale and fully automatic without the need for a browser
 Paid work regarding specific site keys like roblox register will be disregarded due to the complexity of maintaining such solver
+# ⚠️ PROJECT DISCONTINUED
 
+> This repository is receiving its **final update** and will **no longer be maintained** starting from today
 ## Donate
 
 If you appreciate my work and want to support it, donations are welcome.
